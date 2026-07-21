@@ -1,0 +1,45 @@
+donation_id,donor_name,year,device_or20,device_orion,device_computer,device_laptop,device_tablet,device_scanner
+DON001,UK- (Alex),2018,1,0,0,0,0,0
+DON002,RNIB (Google funds),2019,496,0,0,0,0,0
+DON003,Rajni Foundation,2019,9,0,0,0,0,0
+DON004,Unilever Kenya,2019,25,0,0,0,0,0
+DON005,CITI Bank,2019,36,0,0,0,0,0
+DON006,OM Nagpal,2019,1,0,0,0,0,0
+DON007,KBTA (local donors),2019,30,0,0,0,0,0
+DON008,KBTA (local donors),2020,93,0,0,0,0,0
+DON009,Diatrict Grand charity,2020,10,0,0,0,0,0
+DON010,ABC,2020,36,0,0,0,0,0
+DON011,Master card Foundation,2021,11,0,0,0,0,0
+DON012,Unilever Global,2021,660,50,0,0,0,0
+DON013,Master card,2022,20,0,0,0,0,0
+DON014,Unilever Global,2022,200,0,0,0,0,0
+DON015,Premchandmbhai foundation,2022,0,0,0,0,0,0
+DON016,LDS,2022,0,0,0,0,0,0
+DON017,Mpesa,2022,0,0,0,0,0,0
+DON018,Scan Group,2022,0,0,0,0,0,0
+DON019,Swiss,2022,0,0,0,0,0,0
+DON020,KBTA,2022,0,0,0,0,50,0
+DON021,Master card,2023,0,0,0,0,0,0
+DON022,Unilever,2023,0,0,0,0,0,0
+DON023,Premchandmbhai foundation,2023,300,0,0,0,0,0
+DON024,LDS,2023,40,15,0,36,0,0
+DON025,Mpesa,2023,100,87,0,34,0,2
+DON026,Scan Group,2023,0,0,0,0,0,0
+DON027,Global Impact,2023,0,0,0,0,0,0
+DON028,CITI Bank,2023,36,0,0,0,0,0
+DON029,Lions Firstsight eye Hospital,2023,5,0,0,0,0,2
+DON030,Master card,2024,0,0,0,0,0,0
+DON031,Unilever,2024,0,0,0,0,0,0
+DON032,Premchandmbhai foundation,2024,250,150,0,42,0,0
+DON033,LDS,2024,0,0,24,0,0,0
+DON034,Mpesa,2024,0,0,0,0,0,0
+DON035,Scan Group,2024,0,0,47,0,0,0
+DON036,premier academy,2024,0,0,4,0,0,0
+DON037,Mitsumi,2024,0,0,25,0,0,0
+DON038,District Grand Charity,2024,0,0,0,0,0,0
+DON039,Master card,2025,0,0,0,36,0,0
+DON040,Unilever,2025,0,0,0,0,0,0
+DON041,Premchandmbhai Foundation,2025,50,90,30,0,0,0
+DON042,LDS,2025,0,0,0,0,0,0
+DON043,Mpesa,2025,0,0,0,0,0,0
+DON044,Scan Group,2025,0,0,0,0,0,0

@@ -1,0 +1,174 @@
+institution_id,country,institution_name,region,subregion,category,enrolment,device_or20,device_calculator,device_laptop,device_desktop,device_tablet,device_scanner,device_lego_braille,device_hable_one,device_robotics_kit,head_teacher_name,head_teacher_phone,ict_braille_teacher_name,ict_braille_teacher_phone,technician_name,technician_phone
+KE001,Kenya,AIC Girls Boarding Primary School,Kajiado,Kajiado Central,Integrated,10,1,0,0,0,0,0,0,0,0,Linet Kimakon,0723 162621,Florence Apiyo,0701 787408,,
+KE002,Kenya,Catholic Integrated Primary and Junior School,Wajir,Wajir East,Integrated,76,5,0,0,0,0,0,0,0,0,Mr. Hassan,0725 292843,Oroni Job Kaburu,0723 866991,Oroni Job Kaburu,0723 866991
+KE003,Kenya,Chepsigot Special Unit for the V.I,Elgeyo Marakwet,Keiyo South,Special,45,18,5,0,1,0,1,4,0,0,Hellen Cheruiyot,0724 802870,Francis Baroret,0717 330130,Fridah Jemutai Kong'a,0710 262694
+KE004,Kenya,Emining Special Primary School for VI,Baringo,Mogotio,Special,43,24,0,0,0,0,0,8,0,0,Md.  Caroline Kiptoo,0722 937127,Veronica Mboko,0711 835948,Rose Thuo,0711 835948
+KE005,Kenya,Garissa Primary School,Garissa,Garissa Township,Integrated,38,13,0,0,0,0,0,0,0,0,Ahmed Abdi Hassan,0723 729667,Omar B. Guyo,0715 701372,,
+KE006,Kenya,Ikanga Special Unit,Kitui,Mutomo,Special,30,4,0,0,0,0,0,0,0,0,Madam Margaret Mutei,0727 989772,Prisca Kiluma,0721 425348,Prisca Kiluma,0721 425348
+KE007,Kenya,Ilula Special school,Uasin Ngishu,Ainabkoi,Integrated,53,4,0,0,0,0,0,0,0,0,Mr. Cornelius K. Ronoh,0721 299910,John Turgut Korir,0710 391068,,
+KE008,Kenya,Kaboloin Primary School,Kericho,Kericho,Integrated,4,2,0,0,0,0,0,0,0,0,Mr. John Kikwai,0725 794482,Geofrey Birgen,0714 291922,,
+KE009,Kenya,Kambi ya Juu Integrated Primary School,Isiolo,Isiolo,Integrated,41,13,0,0,0,0,0,0,0,0,Rebecca Mwonjiro,0721 725692,Benson Gitonga,0721 596090,Kobia P. Mworia,0726 821765
+KE010,Kenya,Kangundo DEB Primary School & V.I,Machakos,Kangundo,Integrated,43,24,5,0,0,0,0,3,0,0,Mr. John Ndambuki,0726 377761,Madam Ann,0726 845198,Clementia Nyaboke,0741 724095
+KE011,Kenya,Kibarani Boarding Primary school (V.I),Kilifi,Kilifi North,Integrated,23,5,0,0,1,0,0,0,0,0,Madam Netia,0721 254082,Mohamed Omar,0701 814767,Mohamed Omar,0701 814767
+KE012,Kenya,Kilgoris DEB Primary School,Narok,TransMara West,Integrated,118,15,5,0,7,0,0,0,0,0,Mr. Atieno Joel,0728 729341,Lynn Kusap,0797 264179,,
+KE013,Kenya,Kilimani Primary and Junior School,Nairobi,Westlands,Integrated,15,9,0,0,0,0,0,0,0,0,Md. Lucy Apondo,0722 304396,Mr. Gitau,0721 994836,Teresia Wanjiru,0721 483061
+KE014,Kenya,Kitui Comprehensive School  For V. I,Kitui,Kitui Central,Special,74,20,3,0,6,0,0,0,0,0,Caroline M. Njagi,0722 399 178,Madam Dorcas Ngutu,0728 888427,Dominic Mulei,0712 264620
+KE015,Kenya,Kitui School for the Deaf/Blind,Kitui,Kitui Central,Special,0,1,0,0,0,0,0,0,0,0,Betty Kiraithe,0720 985651,Mr. Marete,0720 410301,,
+KE016,Kenya,Korara Special Comprehensive School (VI),Bomet,Bomet East,Special,136,49,8,0,11,0,1,0,0,0,Mr. Charles Sigey,0721 859256,Oduor Gideon,0711 302134,Sosten Rotich,0722 523649
+KE017,Kenya,Koyonzo Special Primary school for V.I,Kakamega,Matungu,Special,128,40,0,0,1,0,1,0,0,0,Catherine washiali,0798 908491,Sarah Nalianya,0725 400250,,
+KE018,Kenya,Lodwar Mixed Comprehensive &  Integrated School,Turkana,Turkana Central,Integrated,131,11,6,0,0,0,0,0,0,0,Reuben Lotiang,0729 287141,Nakode Jackson,0717 492787,William Loita,0727 063264
+KE019,Kenya,Log-Logo Integrated Primary school,Marsabit,Laisami,Integrated,41,10,0,0,0,0,0,0,0,0,Meshack Labarakwe,0725 420587,Ibrahim Godana,0716 500036,Emily Loltome,0716 713642
+KE020,Kenya,Mandera Special school for the Blind,Mandera,Khalalio,Special,64,4,0,0,0,0,0,0,0,0,Mr. Bare Ali,0722 107638,,,,
+KE021,Kenya,Marigat Special Primary School,Baringo,Marigat,Special,62,14,0,0,0,0,0,6,0,0,Mr. J. Makokha,0720 659096,James Ngugi,0713 915030,James Ngugi,0713 915030
+KE022,Kenya,Menengai Primary School & V.I Unit,Nakuru,Nakuru East,Integrated,12,7,0,0,1,1,0,0,0,0,Madam Milka,0726 969395,Angelica Mmbone,0707 052203,Hannah Wanjohi,0720 912188
+KE023,Kenya,Mitoto Special Primary School,Trans Nzoia,Kiminini,Special,85,19,9,0,0,0,0,0,0,0,John Edambo,0723 520698,Ndubi Mathews,0728 866217,,
+KE024,Kenya,Mlimani Primary &  Special Unit,Nakuru,Naukuru west,Integrated,21,8,0,0,4,0,0,4,0,0,Roselyne Chebor,0725 570151,Lilian Muyenzi,0710 262694,Lilian Muyenzi,0710 262694
+KE025,Kenya,Moi Kabaratonjo Special Primary school for VI,Baringo,Baringo North,Special,33,7,0,0,0,0,0,0,0,0,Md. Leah Yatich,0721 917912,Catherine Kimunge,0715 491483,Lucy Ruto,0713 018239
+KE026,Kenya,Muthaiga Primary School,Nairobi,Kasarani,Integrated,10,3,0,0,0,0,0,0,0,0,Lydia Kinyua Gilbert,0723 420473,Peninah K. Tulu,0714 921113,Pamela Adeso,0720 859178
+KE027,Kenya,Ngaaie Special School for M.H/V.I,Kitui,Kyuso,Integrated,4,3,0,0,0,0,0,0,0,0,Peter Syanda,0728 067206,Winfred Mwasya,0723 946741,Samuel Manzi,0726 324112
+KE028,Kenya,Ole Sankale Integrated School,Narok,Narok Central,Integrated,48,2,0,0,0,0,0,0,0,0,Nicholas kimurgo,0721 439066,Nancy Kinyua Ndung'u,0721 960717,Nancy Kinyua Ndung'u,0721 960717
+KE029,Kenya,Olkejuado Primary Boys Boarding school,Kajiado,Kajiado Central,Integrated,13,5,0,0,0,0,0,3,0,0,Mr. Mumo,0722 492598,Henry Omondi,0722 328390,,
+KE030,Kenya,Our Lady of Mercy Gilrs Boarding Comprehensive School,Nairobi,Kamukunji,Integrated,13,8,0,0,0,0,0,3,0,0,Teresia Wanjira,0711 421874,John M. Francis,0722 438338,John M. Francis,0722 438338
+KE031,Kenya,S.A Kibos Special Primary School,Kisumu,Muhoroni,Special,186,59,11,0,0,0,0,13,0,0,Caroline Templer,0722 633389,Madam Jemimah Okoth,0712 984399,Maurice Juma,0703 760830
+KE032,Kenya,S.A Likoni School for the Blind,Mombasa,Likoni,Special,103,38,11,0,1,0,1,15,0,1,Elizabeth Ngare,0723 760651,Macknon Mwambingu,0725 776522,Samuel Kombo,0794 912275
+KE033,Kenya,S.A Matunda Special Comprehensive School for V.I,Matunda,Likuyani,Special,33,6,0,0,0,0,0,0,0,0,Madam Nelly,0717 782322,Silas Andiva,0715 426811,,
+KE034,Kenya,S.A Thika Primary school for the Blind,Kiambu,Thika west,Special,332,128,0,0,0,0,0,0,0,0,Peninah Mutuku,0721 466354,Mr. John Musau,0724 567719,Jane Titus,0728 262470
+KE035,Kenya,St. Francis Primary School for the Blind,W. Pokot,W. Pokot,Special,77,20,11,0,0,0,0,4,0,1,William Tataka,0725 144893,Monari Kerubo Faith,0705 227867,Muga Opondo,0714 492456
+KE036,Kenya,St. Joseph Kiomiti  school for the Blind,Kisii,Masaba South,Special,35,31,5,0,10,0,0,0,0,0,George Manyange,0720 398806,Matilda Kiyondi,0718 247846,Hellen Okari,0726 990514
+KE037,Kenya,St. Lucy's School for the Blind,Meru,Imenti South,Special,165,40,0,0,0,0,0,0,0,0,Sr. Judith,0722 933283,Jackson Munene,0726 558848,Kenneth Gikunda,0723 475676
+KE038,Kenya,St. Luke's Integrated Primary School,Kwale,Kinango,Integrated,16,11,0,0,0,0,0,0,0,0,Mr. Paul Mapi,0759 087109,Michael B. Chilumu,0713 319366,Janet Nzikali,0716 034135
+KE039,Kenya,St. Oda Aluor School for the V.I,Siaya,Gem Wagai,Special,160,39,14,0,0,0,0,8,0,0,Sr. Esther Midge,0727 688292,Milicent A. Miruka,0724 554086,Michael Obonyo,
+KE040,Kenya,Taveta Special Primary School,Taita Taveta,Taveta,Special,12,4,0,0,0,0,0,0,0,0,Mary W Maghanga,0726 473432,Nahshon Mwale,0726 765739,Nahshon Mwale,0726 765739
+KE041,Kenya,Turkana Integrated Program,Turkana,Aroo,Integrated,19,16,0,0,0,0,0,0,0,0,Mr. Ekales Eporot,0729 260112,Rael L. Nyasio,0721 302214,Labby Ekweso,
+KE042,Kenya,Aquinas High School,Nairobi,Makadara,Integrated,18,4,4,0,0,2,0,0,0,0,Mr. Ngururi,0722 352576,Samuel wamba Mwangi,0796 622433,Everlyne Murugi Nyaga,0726 131199
+KE043,Kenya,Bungoma High School,Bungoma,Bungoma South,Integrated,25,3,6,0,4,2,0,0,0,1,Mr. Toili Khisa,0724 141453,Felistas N. Wekulo,0700 337865,,
+KE044,Kenya,Katilu Boys Secondary School,Turkana,Aroo,Integrated,34,7,7,0,4,0,0,0,0,1,Etee Stephen,0726 238117,Yohanna Nakapwan,0713 867050,Yohanna Nakapwan,0713 867050
+KE045,Kenya,Katilu Girls Secondary School,Turkana,Aroo,Integrated,80,7,7,1,3,0,1,0,0,1,Md. Salome,0715 396376,Jeremiah Lochomin,0726 139385,David Kamaret,0717 711567
+KE046,Kenya,Kericho Tea Secondary school,kericho,Kericho,Integrated,1,0,0,0,0,0,0,0,0,0,Mr. Samoei Wilson,0726 96099,Victor Cheruiyot,0711 300071,,
+KE047,Kenya,Kipsigis Girls High School,Kericho,Kericho,Integrated,0,1,2,0,0,0,0,0,0,1,Mrs. Maggy Kirui,0720 344271,Wesley Langat,0720 221739,Wesley Langat,0720 221739
+KE048,Kenya,Korara Integrated Secondary School,Bomet,Bomet East,Integrated,27,14,14,10,0,2,0,0,0,1,Ng'eno Geofrey,0729 353048,Margaret Chepkorir,0716 087157,,
+KE049,Kenya,Marigat Integrated Day Secondary School,Baringo,Marigat,Integrated,23,8,12,0,6,3,1,0,0,0,Joel Lemakatio,0721 588037,Sharon Kipyegon,0743 793387,Sylvia Jemtai,0796 711155
+KE050,Kenya,Mitoto S.A Secondary School,Trans Nzoia,Kiminini,Special,30,35,20,21,0,0,1,0,0,2,Joseph Kamanda,0721 777260,Victor Amboga,0705 673398,Daisy Chelangat,0790 170270
+KE051,Kenya,Moi Girls School,Nairobi,Kibera,Integrated,6,7,4,0,0,4,0,0,0,0,Md. Margaret,0722 728653,Okoth Dennis Ngeta,0703 382647,,
+KE052,Kenya,Nakuru High School,Nakuru,Nakuru East,Integrated,6,2,2,0,0,0,0,0,0,0,Mr. John Ole Kuyo,0728 508543,Chelangat Maureen,0725 310872,Chelangat Maureen,0725 310872
+KE053,Kenya,Nicco Hauser Special secondary school for the V.I,Siaya,Bondo,Special,71,50,30,19,0,4,1,0,0,2,Md. Jacinta,0720 719734,Anindo Kuboka Jesca,0728 451440,Calvine Muga,0729 774387
+KE054,Kenya,Ole Tipis Girls High School,Narok,Narok Central,Integrated,2,0,0,0,0,0,0,0,0,0,Md. Lady,0720 837882,Stephen Lesier,0707 648022,,
+KE055,Kenya,S.A Kibos Special Secondary school,Kisumu,Muhoroni,Special,115,93,45,1,29,4,0,0,0,3,Mr. Joshua Ombanya,0723 598760,Linet Ajina,0713 636268,Linet Ajina,0713 636268
+KE056,Kenya,S.A. Likoni High school for the Visually Impaired,Mombasa,Likoni,Special,68,26,12,13,0,4,1,0,0,0,Md. Janet Mueni,0724 653106,Diana Kwamboka,0799 836992,Timothy Mulinge,0704 472624
+KE057,Kenya,S.A. Thika High School for the Blind,Kiambu,Thika West,Special,403,158,0,0,0,0,0,0,0,0,Md. Grace Kiarie,0722 344863,James Kaimenyi,0742 278244,Peter Mucheru,0720 476634
+KE058,Kenya,St. Francis Secondary for the Blind,W. Pokot,W. Pokot,Integrated,59,27,20,10,0,4,0,0,0,1,Mr. David Losili,0719 569912,Rionosia Reuben,0720 831043,Muga Opondo,0714 492456
+KE059,Kenya,St. Lucy's High School,Meru,Imenti South,Special,97,58,28,10,0,0,0,0,0,0,Sr. Jackline,0722 940796,Jared Samba,0720 447070,,
+KE060,Kenya,Wabera Secondary School,Garissa,Fafi,Integrated,0,1,0,0,0,0,0,0,0,0,Stephenson Mutisya,0708 483664,Lucy Omondi,0791 266718,,
+KE061,Kenya,Egerton University,Nakuru,,University,4,4,0,0,0,0,0,0,0,0,Dr. Josephine Khaemba,0722 265757,Judy Njoroge,0713 484933,Judy Njoroge,0713 484933
+KE062,Kenya,Jaramongi Oginga Odinga University fo Science & Technology,Siaya,,University,4,11,0,0,0,0,0,0,8,0,Prof. Charles Omoke,0711 170540,Mr. Gregory Juma,0705 286270,,
+KE063,Kenya,Kenyatta University,Nairobi,,University,40,10,0,0,0,0,0,0,0,0,Dr. Lubna Mazrui,0722 316868,Jean Njagi,0712 230360,Jean Njagi,0712 230360
+KE064,Kenya,Maasai Mara University,Narok,,University,7,12,0,0,13,0,0,0,10,0,Dr. Nyokabi,0723 415146,Dr. Veronica Nyokabi,0723 415146,John Templer,
+KE065,Kenya,Maseno University,Kisumu,,University,23,13,0,0,0,0,0,0,0,0,John M. Ndung'u,0713 545251,John M. Ndung'u,0713 545251,John M. Ndung'u,0713 545251
+KE066,Kenya,Mount Kenya University,Thika,,University,12,13,0,0,0,0,0,0,0,0,Dr. Naftali K. Rop,0721 781759,Dr. Milimo,0721 415619,,
+KE067,Kenya,Asumbi Teachers  Training College,Homa Bay,,TTC,6,6,0,0,0,0,0,0,0,0,Madam Stella,0722 891721,Madam Beatrice,0720 731562,,
+KE068,Kenya,Machakos Teachers Training College,Machakos,,TTC,30,16,0,0,0,0,0,0,0,0,Madam Joyce Mabwai,0726 924135,Maureen Kilonzo,0726 490074,Maureen Kilonzo,0726 490074
+KE069,Kenya,Mosoriot Teachers Training College,Nandi,,TTC,18,10,0,0,0,0,0,0,0,0,Mr. Kiprotich,0722 297003,Petronilla Moraa,0723 863852,Petronilla Moraa,0723 863852
+KE070,Kenya,Machakos Technical Institute for the Blind,Machakos,,TVET,43,10,5,0,0,0,0,0,0,0,Dr. Priscilla Mutua,0723 502952,Mr. Khaemba,0705 846011,,
+KE071,Kenya,Mitoto Technical & Vocational Training Centre,Trans Nzoia,,TVET,15,10,0,0,6,0,0,0,0,0,Mr. Richard Ayodi,0720 825234,Christine Wanyonyi,0723 076599,,
+KE072,Kenya,Sikri Vocational & Technical Intitutite,Homa Bay,,TVET,310,16,0,0,0,0,0,0,0,0,Mr. Omondi,0722 336979,Mark Nduya,0725 314122,,
+RW073,Rwanda,BSVI,Rwanda,,Primary,14,13,0,0,0,0,0,0,0,0,IRAMUMPAYE Dieudonee,+250788854818,IRAMUMPAYE Dieudonee,+250788854818,NDUWAYEZU Wellars,+250784090933
+RW074,Rwanda,UCC,Rwanda,,Primary,3,4,0,0,0,0,0,0,0,0,Nshimiyimana Justin,+250788354386,TWAGIRAYEZU Jean Pabtiste,+250785855029,TWAGIRAYEZU Jean Pabtiste,+250785855029
+RW075,Rwanda,HVP-GATAGARA,Rwanda,,Primary,49,30,0,0,0,0,0,0,0,0,Jean Damascène BARINDIRA,+250782433277,UWIRINGIYIMANA KABERUKA Placide,+250788466935,NTAKIRUTIMANA David,+250786687195
+RW076,Rwanda,EIBC-KIBEHO,Rwanda,,Primary,68,21,0,0,0,0,0,0,0,0,Sr JADWIGA Maciejczyk.,+250780041429,NSABIMANA Theophile,+250782797754,NSABIMANA Theophile,+250782797754
+RW077,Rwanda,EIBC-KIBEHO,Rwanda,,Secondary,72,43,0,0,0,0,0,0,0,0,Sr JADWIGA Maciejczyk.,+250780041429,NSABIMANA Theophile,+250782797754,NSABIMANA Theophile,+250782797754
+RW078,Rwanda,GS GAHINI,Rwanda,,Secondary,7,10,0,0,0,0,0,0,0,0,Luke Karemangingo,+250788498277,Gashugi Jean Claude,+250788989893,GATETE Ephrem,+250788668293
+RW079,Rwanda,HVP-GATAGARA,Rwanda,,Secondary,78,9,0,0,0,0,0,0,0,0,Jean Damascène BARINDIRA,+250782433277,UWIRINGIYIMANA KABERUKA Placide,+250788466935,NTAKIRUTIMANA David,+250786687195
+MA080,Malawi,Montfort resource centre,Malawi,,Primary school,46,15,0,0,0,0,0,0,0,0,Mrs. Jean Mphepo,999498566,,,R Mpina,881813886
+MA081,Malawi,Nazombe resource centre,Malawi,,Primary school,33,22,0,0,0,0,0,0,0,0,L. Benala,888316865,,,F. Mbewe,993999765
+MA082,Malawi,Makande resource centre,Malawi,,Primary school,22,10,0,0,0,0,0,0,0,0,H.T. Thomasi,883379884,,,Chatyoka,995774716
+MA083,Malawi,Nsiyaludzu resource centre,Malawi,,Primary school,31,21,0,0,0,0,0,0,0,0,Austin Tsetu,999217690,,,Lazarus,999766653
+MA084,Malawi,Mkope Hill resource centre,Malawi,,Primary school,26,11,0,0,0,0,0,0,0,0,Innocent Milepa,995940223,A. Mzikuola,888789352,Mzikuola,888789352
+MA085,Malawi,Salima resource centre,Malawi,,Primary school,30,10,0,0,0,0,0,0,0,0,J. Nyama,996649501,,,Kamphambe,881596069
+MA086,Malawi,Malingunde resource centre,Malawi,,Primary school,70,17,0,0,0,0,0,0,0,0,Z. Limioni,982220026,,,Mathanki,999304845
+MA087,Malawi,Nkhotakota resource centre,Malawi,,Primary school,14,10,0,0,0,0,0,0,0,0,Ability Mashikizo,994931909,,,M. Muhyudin,999069574
+MA088,Malawi,Chilanga resource centre,Malawi,,Primary school,56,78,0,0,0,0,0,0,0,0,Kamphandira,999496481,Benson,897842629,Kamphandira,999496481
+MA089,Malawi,Ekwendeni resource centre,Malawi,,Primary school,42,27,0,0,0,0,0,0,0,0,Nita Luwe,999775493,Hope Mvula,995848036,Mvula,995848036
+MA090,Malawi,St. Maria Goretti resource centre,Malawi,,Primary school,7,4,0,0,0,0,0,0,0,0,Mrs. Misomali,987413494,,,Chavula,888388779
+MA091,Malawi,St. Marys resource centre,Malawi,,Primary school,12,7,0,0,0,0,0,0,0,0,G. Kayange,884041404,,,Kandonga,995855549
+MA092,Malawi,Phalombe secondary school,Malawi,,Secondary school,11,14,0,0,0,0,0,0,0,0,Likupha,991376905,Z Chiwayula,999692910,Z. Chiwayula,999692910
+MA093,Malawi,Blantyre secondary school,Malawi,,Secondary school,14,12,0,0,0,0,0,0,0,0,Gwauya,999871799,,,Mrs Kazako,888346402
+MA094,Malawi,Stella Maris secondary school,Malawi,,Secondary school,5,6,0,0,0,0,0,0,0,0,SR. Kapwata,995895710,,,M. Mpuche,991919902
+MA095,Malawi,Mlanda secondary school,Malawi,,Secondary school,7,6,0,0,0,0,0,0,0,0,Mrs. Banda,999103678,,,N. Mwale,985675210
+MA096,Malawi,Ngabu secondary school,Malawi,,Secondary school,5,6,0,0,0,0,0,0,0,0,Kaitano,993762161,,,H. Sambani,888707325
+MA097,Malawi,Lilongwe Girls sec school,Malawi,,Secondary school,8,12,0,0,0,0,0,0,0,0,Mrs. Kumtamula,995935128,Banda and Zimba,999303068,L. Zimba,999303068
+MA098,Malawi,Namitete secondary school,Malawi,,Secondary school,8,12,0,0,0,0,0,0,0,0,Mr. Mchuchu,999404543,,,Mguntha,999928856
+MA099,Malawi,Mzimba secondary school,Malawi,,Secondary school,2,4,0,0,0,0,0,0,0,0,Mr. Nyirongo,999122555,,,Chisenga,993016118
+MA100,Malawi,Salima secondary school,Malawi,,Secondary school,6,6,0,0,0,0,0,0,0,0,N. Sambo,999038295,,,A. Mwale,998856323
+MA101,Malawi,Bangula secondary school,Malawi,,Secondary school,0,2,0,0,0,0,0,0,0,0,Mr. Chabwera,881185201,,,Mkanda,888754588
+MA102,Malawi,Mzuzu government sec school,Malawi,,Secondary school,15,15,0,0,0,0,0,0,0,0,G. Shunga,999731602,,,M. Mphande,999299942
+MA103,Malawi,Chayamba secondary school,Malawi,,Secondary school,10,10,0,0,0,0,0,0,0,0,R.C. Banda,999305741,,,J. Chiphaka,999337801
+MA104,Malawi,St. Patricks secondary school,Malawi,,Secondary school,11,15,0,0,0,0,0,0,0,0,S Goliat,991995229,,,D. Chitimbe,999692869
+MA105,Malawi,Lisumbwi secondary school,Malawi,,Secondary school,4,5,0,0,0,0,0,0,0,0,Silungwe,884612578,,,A. Makawa,999384308
+MA106,Malawi,Chancellor college,Malawi,,Tertiary,16,20,0,0,0,0,0,0,0,0,Mr. Banda,999944516,A.Kolopo,881506663,A. Tung;ande,995181884
+MA107,Malawi,Loyola secondary school,Malawi,,Secondary school,1,3,0,0,0,0,0,0,0,0,Mavuto Foster,997130468,,,Mavuto Foster,997130468
+TA108,Tanzania,Toangoma,Tanzania,,Primary School,31,15,0,0,0,0,0,0,0,0,Wande Mkonyi,629057538,Ally Mwakasege,717006939,,
+TA109,Tanzania,Uhuru Mchanganyiko,Tanzania,,Primary School,65,16,0,0,0,0,0,0,0,0,Kiwango Fedhalia,715050228,Abdallah Mwandu,765000169,,
+TA110,Tanzania,Mwereni,Tanzania,,Primary School,32,13,0,0,0,0,0,0,0,0,Damas F Urenge,0752 532 997,Dunstan Mbezi,754876674,,
+TA111,Tanzania,mazinyungu,Tanzania,,Primary School,40,13,0,0,0,0,0,0,0,0,Kajika Gallani,0715 956062,Lucy Joseph,753672171,,
+TA112,Tanzania,Themi,Tanzania,,Primary School,13,4,0,0,0,0,0,0,0,0,Mollel Zebedayo,655432667,Rose Owena,756441613,,
+TA113,Tanzania,Pomerini,Tanzania,,Primary School,10,3,0,0,0,0,0,0,0,0,Robert Ndanzi,623306166,Rojas Nasson,626688891,,
+TA114,Tanzania,Patandi,Tanzania,,Primary School,11,3,0,0,0,0,0,0,0,0,Zaid Kamala,766910674,Alice kavindi,784300429,,
+TA115,Tanzania,Pongwe,Tanzania,,Primary School,23,9,0,0,0,0,0,0,0,0,Abdallah S Mohamed,713693928,Godwin Joseph,75829299490,,
+TA116,Tanzania,Irente,Tanzania,,Primary School,28,16,0,0,0,0,0,0,0,0,Anna Godfrey,621428182,Alphonce Mcharo,655783343,,
+TA117,Tanzania,Kisiwandui,Tanzania,,Primary School,16,6,0,0,0,0,0,0,0,0,Ally A Mahamudi,0777 457 027,Kauthar Abdallah,777454210,,
+TA118,Tanzania,Ilembula,Tanzania,,Primary School,11,5,0,0,0,0,0,0,0,0,Dorah Mwenga,0757 087 275,Peter Mathias,0754 586 574,,
+TA119,Tanzania,Malangali,Tanzania,,Primary School,25,24,0,0,0,0,0,0,0,0,Method S Mgaya,0766 401 221,Orthor Mkaranga,0755 083 008,,
+TA120,Tanzania,Buigiri,Tanzania,,Primary School,45,20,0,0,0,0,0,0,0,0,Samwel J Sospeter,744444463,Ashiru Omary,0715 593 976,,
+TA121,Tanzania,Lugoba,Tanzania,,Secondary School,16,12,0,0,0,0,0,0,0,0,Abdallah A sakasa,0754 898 202,Athumani Omary,0759 407 551,Athumani Omary,0759 407 551
+TA122,Tanzania,Kilosa,Tanzania,,Secondary School,23,26,6,0,0,0,0,0,0,0,Wenseslausi Kihongosi,0717 015 950,Said Simba,0683 065 352,,
+TA123,Tanzania,Mpwapwa,Tanzania,,Secondary School,16,25,7,0,0,0,0,0,0,0,Omary T Omary,0620 110 677,Felix Malimbo,0625 588 909,,
+TA124,Tanzania,Makambako,Tanzania,,Secondary School,12,14,4,0,0,0,0,0,0,0,Godfrey H Fwila,0743 444 922,Amos Konzo,0757 588 067,Amos Konzo,0757 588 067
+TA125,Tanzania,Haile Selassie,Tanzania,,Secondary School,2,5,0,0,0,0,0,0,0,0,Mshenga H Abasi,0777 457 027,Mwanaharusi Said,0776 184 574,,
+TA126,Tanzania,Mvumi,Tanzania,,Secondary School,12,7,0,0,0,0,0,0,0,0,Hamu E Kutoka,0714 278 470,Diane Materu,0655 192 225,Diane Materu,0655 192 225
+TA127,Tanzania,Kantalamba,Tanzania,,Secondary School,17,22,0,0,0,0,0,0,0,0,Daud Makaranga,0765 842 864,Linus Rupia,0655 824 812,,
+TA128,Tanzania,Mtera,Tanzania,,Secondary School,6,10,0,0,0,0,0,0,0,0,Kelvin Lilawola,0756 251 636,Franco Kihwele,0621 608 303,,
+TA129,Tanzania,Buhongwa,Tanzania,,Secondary School,3,10,0,0,0,0,0,0,0,0,Sarah Patrick,754581617,Golder Majule,766964162,,
+TA130,Tanzania,Patandi,Tanzania,,Secondary School,12,14,0,0,0,0,0,0,0,0,Janeth Mollel,764751066,Alice kavindi,784500429,,
+TA131,Tanzania,Shinyanga,Tanzania,,Secondary School,33,35,0,0,0,0,0,0,0,0,Bernad Ishengoma,784278021,Move Mussa,762593179,,
+TA132,Tanzania,Mkolani,Tanzania,,Secondary School,9,7,0,0,0,0,0,0,0,0,Edith Mweya,0754 020 066,Maulidy Ally,0682 342 528,,
+TA133,Tanzania,Korogwe,Tanzania,,Secondary School,14,14,0,0,0,0,0,0,0,0,Anisia Mauka,0769 036 380/0652 498 155,Raphael Mrisho,0718 072 919,,
+TA134,Tanzania,Moshi,Tanzania,,Secondary School,22,32,0,0,0,0,0,0,0,0,Samwel Bendera,0694 400 294,Andrian Mngulwi,0713 457 239,Andrian Mngulwi,0713 457 239
+TA135,Tanzania,Lugalo,Tanzania,,Secondary School,21,19,6,0,0,0,0,0,0,0,Mwongozo J Nganyagwa,0754 012 977,Hadija Msofe,0626 078 894,,
+TA136,Tanzania,Hombolo,Tanzania,,Tertiary,7,7,0,0,0,0,0,0,0,0,John Kulwa,787122090,John Kulwa,787122090,,
+TA137,Tanzania,University of Dar es Salaam,Tanzania,,Tertiary,16,10,0,0,0,0,0,0,0,0,Jerome Mbago,715367646,Jerome Mbago,715367646,,
+UG138,Uganda,Salaama School for the Blind,Uganda,,Primary,74,32,0,0,0,0,0,0,0,0,Dorah Ssebaduka,0775 548453,Talemwe Francis,0766 660533,Christopher,0701 270265
+UG139,Uganda,Ngetta Girls primary School,Uganda,,Primary,79,19,0,0,0,0,0,0,0,0,Akot Susan,0772 440544,,,Sam Baker,0741 227801
+UG140,Uganda,Martin Nkoyoyo Inclusive Primary School,Uganda,,Primary,25,8,0,0,0,0,0,0,0,0,Betty,0783 687768,,,Rose,0785 300488
+UG141,Uganda,St. Francis Primary School,Uganda,,Primary,112,30,0,0,0,0,0,0,0,0,Abongi Alyabo Rose Sr.,0755 449471,Dan Oryek,,Susan,0775 276477
+UG142,Uganda,St. Angella Girls Primary School,Uganda,,Primary,64,10,0,0,0,0,0,0,0,0,Sr. Rose,0784 034553,,,Derrick,0784 081112
+UG143,Uganda,Centre for Visually Impaired Children,Uganda,,Primary,62,12,0,0,0,0,0,0,0,0,Bbosa Teddy,0701 491896,,,Teddy,0772 760521
+UG144,Uganda,Misanvu Demonstration primary School,Uganda,,Primary,18,12,0,0,0,0,0,0,0,0,Mugabi Nsumikambi,0781 477751,,,Samuel,0788 915736
+UG145,Uganda,St. Hellen Primary School,Uganda,,Primary,41,12,0,0,0,0,0,0,0,0,Sister nakityo,0773 263046,,,Prudence,0782 325070
+UG146,Uganda,Kisoro Demonstration Primary School,Uganda,,Primary,680,29,0,0,0,0,0,0,0,0,Habiyaremye Stephen,0789 261811,,,Nesto,0787 719080
+UG147,Uganda,Hornby High School Junior,Uganda,,Primary,21,22,0,0,0,0,0,0,0,0,Geoffrey,0784 361199,Duncan Owamani,0775 805955,Duncan,0775 805955
+UG148,Uganda,Gulu primary School,Uganda,,Primary,65,20,0,0,0,0,0,0,0,0,Tonny,0777 003931,,,Tony,0774 740562
+UG149,Uganda,Spire Road Primary School,Uganda,,Primary,30,18,0,0,0,0,0,0,0,0,Nyende,0781 862113,Tiwaku John,0783 285805,John,0783 285805
+UG150,Uganda,Kasambya Demonstration Primary School,Uganda,,Primary,4,4,0,0,0,0,0,0,0,0,,,,,Evalyne,0784 929441
+UG151,Uganda,St. Thereza Primary School Bujuni,Uganda,,Primary,5,5,0,0,0,0,0,0,0,0,,,,,Paul,0783 026586
+UG152,Uganda,Kitgum Girls Primary School,Uganda,,Primary,5,5,0,0,0,0,0,0,0,0,,,,,Charles,0782 695200
+UG153,Uganda,St. Bernadetta Primary School,Uganda,,Primary,4,4,0,0,0,0,0,0,0,0,,,,,Samuel,0761 165813
+UG154,Uganda,Moyo Girls Primary School,Uganda,,Primary,9,9,0,0,0,0,0,0,0,0,,,,,Janet,0760 328029
+UG155,Uganda,Kamurasi Demonstration Primary School,Uganda,,Primary,11,11,0,0,0,0,0,0,0,0,,,,,Rose,0789 001648
+UG156,Uganda,Ediofe Girls Primary School,Uganda,,Primary,6,6,0,0,0,0,0,0,0,0,,,,,Bayo,0776 335098
+UG157,Uganda,Iganga Demonstration primary School,Uganda,,Primary,15,15,0,0,0,0,0,0,0,0,,,,,Anna,0772 699226
+UG158,Uganda,Balitta Lwogi Primary School,Uganda,,Primary,7,7,0,0,0,0,0,0,0,0,,,,,Olivia,0774 009033
+UG159,Uganda,Katente West primary School,Uganda,,Primary,8,8,0,0,0,0,0,0,0,0,,,,,Sylvia,0781 606470
+UG160,Uganda,Hornby High School,Uganda,,Secondary,43,25,5,0,0,0,0,0,0,0,Martin,0788 522415,martin,0788 522415,Martin,0788 522415
+UG161,Uganda,Saad Memorial Secondary School,Uganda,,Secondary,5,5,0,0,0,0,0,0,0,0,Andrew,0755 499848,,,Akwankasa,0755 499848
+UG162,Uganda,Nvara Secondary School,Uganda,,Secondary,20,19,0,0,0,0,0,0,0,0,Matelo,0778 656575,Dadria Dan,0780 920270,Lilian,0772 454040
+UG163,Uganda,Gulu High School,Uganda,,Secondary,23,20,5,0,0,0,0,0,0,0,Oloya Collins,0771 841888,Okello Patrick Jimmy,0772 344089,Jimmy,0772 344089
+UG164,Uganda,St. Francis Secondary School,Uganda,,Secondary,121,102,5,10,0,0,0,0,0,0,Sr. Mary,0782 439566,Enyalu Patrick,0777 625662,Moses,0781 008781
+UG165,Uganda,Iganga Secondary School,Uganda,,Secondary,19,15,5,0,0,0,0,0,0,0,Nakaziba,0782 455496,Paul Mufumba,,Justin,0782 850303
+UG166,Uganda,Namasagali College,Uganda,,Secondary,18,7,0,0,0,0,0,0,0,0,Prossy,0759 032208,John Isanga,0754 264253,,
+UG167,Uganda,St. gorret Secondary School Ngetta,Uganda,,Secondary,5,5,0,0,0,0,0,0,0,0,Luke,0777 141646,Sambaker (double),,,
+UG168,Uganda,Sir Apollo Kaggwa Secondary School,Uganda,,Secondary,24,13,0,0,0,0,0,0,0,0,Waddimba,0772 420677,,,Micheal,0777 632433
+UG169,Uganda,Sure Prospects Secondary School,Uganda,,Secondary,7,4,0,0,0,0,0,0,0,0,Abraham,0772 618003,,,Carol,0706 945070
+UG170,Uganda,St. Peters' Secondary School,Uganda,,Secondary,8,8,0,0,0,0,0,0,0,0,Samuel,0774 082741,,,Fionah,0774 082741
+UG171,Uganda,St. Boniconcili Secondadry School,Uganda,,Secondary,6,5,0,0,0,0,0,0,0,0,Edith,0774 382174,Henry,0786 413150,Non(tranferred),
+UG172,Uganda,RapCD Secondary School,Uganda,,Secondary,8,8,0,0,0,0,0,0,0,0,,,,,Brian,0772 751663
+UG173,Uganda,Kyambogo University,Uganda,,University,35,15,0,0,0,0,0,0,0,0,Dr. Odette,0772 968235,Akim Kibedi,0701 162771,Dr. Odette,0772 968235

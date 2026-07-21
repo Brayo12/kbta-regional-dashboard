@@ -1,0 +1,100 @@
+graduate_id,graduate_name,gender,cohort,year,qualification,internship_placement,employment_organization,sector,status
+EMP001,Steven Mboya,Male,one,2023,Degree in International Relations and diplomacy with IT,Not placed,KBTA,Other,Not Placed
+EMP002,Grace Lilian Murugi,Female,one,2023,Diploma in Human Resource Management,RIZIKI,—,HR & Management,Internship Placed
+EMP003,Benson Karanja,Male,one,2023,"Diploma in Special Education, Cisco Certified Networking Associate (CCNA)",KBTA,—,Education & Teaching,KBTA Employed
+EMP004,Jepchirchir Lilian,Female,one,2023,Diploma in Human Resource Management,BIDCO,—,HR & Management,Internship Placed
+EMP005,Miriam Kosgey,Female,one,2023,BA. Gender and Development Studies,Not placed,State Dpt for Gender AND Affirmative action,Social & Community Dev,Not Placed
+EMP006,Abdifatah Abdikadir Abdi,Unknown,one,2023,Diploma in Special Need Education,LIONS FIRST EYE SIGHT HOSPITAL,—,Inclusive Education,Internship Placed
+EMP007,Geofrey Musyoka,Male,one,2023,Bachelor of Arts Gender and Development Studies,CATHOLIC CHURCH KITUI SPECIAL NEEDS DPT,—,Inclusive Education,Internship Placed
+EMP008,Evans Onyango,Male,one,2023,BSc. Actuarial Science,Not placed,CIC INSURANCE,ICT & Data,Not Placed
+EMP009,Festus Musyoki,Male,one,2023,"Diploma Special Needs Education -Credit one
+BA Gender And Development Studies - ",LIONS FIRST EYE SIGHT HOSPITAL,—,Inclusive Education,Internship Placed
+EMP010,Maria Swakei,Female,Two,2023,Diploma in Special Needs Education,National Council for Persons with Disabilities,Entrepreneurship,Inclusive Education,Self-Employed
+EMP011,Lily Cherotich,Unknown,Two,2023,Diploma in Special Needs Education,LIONS FIRST EYE SIGHT HOSPITAL,Back to college for Hogher Education,Inclusive Education,Returned to Study
+EMP012,Dennis Kioko,Male,Two,2023,Diploma in Finance and Business Management,KBTA,Internship ended,Other,KBTA Employed
+EMP013,Brunehilda Wanga,Male,Two,2023,Bachelor's Degree in Gender and Development Studies,Public Service Board,Internship ended,Social & Community Dev,Internship Completed
+EMP014,John Kuria,Male,Two,2023,Bachelor's Degree in Community Development & a Diploma in Social Work,Public Service Board,Internship ongoing,Social & Community Dev,Internship Ongoing
+EMP015,Evelyne Kalunda,Female,Two,2023,Bachelor's Degree in Law,Kenya Trade Network Agency- KenTrade,Sheria House - contract,Law & Governance,Formally Employed
+EMP016,Shadrack Too,Male,Two,2023,Diploma in Human Resource Management,RIZIKI scource,Internship ongoing,HR & Management,Internship Ongoing
+EMP017,Charles Kilonzo,Male,Two,2023,Bachelor's Degree and Diploma in International Relations,Capital Markets Authority,Internship ended,Other,Internship Completed
+EMP018,Kevin Wabwire,Male,Two,2023,Diploma in Human Resource Management,Mitoto Secondary School,Internship ongoing,Education & Teaching,Internship Ongoing
+EMP019,Del Reuben Deng,Male,Two,2023,Diploma in Special Needs Education,Capital Markets Authority,Back to college for Higher Education,Inclusive Education,Returned to Study
+EMP020,Evaline Odera,Female,Two,2023,Bachelor's Degree in Gender and Development Studies & a Diploma in Special Needs,Capital Markets Authority,Internship ended,Inclusive Education,Internship Completed
+EMP021,Sedrick Nyagaka,Male,Two,2023,Diploma in Human Resource Management,National Council for Persons with Disabilities,Internship ongoing,HR & Management,Internship Ongoing
+EMP022,Sheilla Wanyonyi,Female,Three,2023,Degree in Gender And Development Studies,Capital Markets Authority,Public service commission,Social & Community Dev,Formally Employed
+EMP023,Shadrack Kipkemei,Male,Three,2023,Bachelors in special Needs Education,Public Service Board,Teachers service commission,Inclusive Education,Formally Employed
+EMP024,Daisy Awuor,Female,Three,2023,Diploma in Social Work and Community Development,Innovate Now,Entrepreneurship,Social & Community Dev,Self-Employed
+EMP025,Patience Nkatha Nyaga,Female,Three,2023,Degree in Special Needs Education With IT,Kilimanjaro Blind Trust Africa,Hodi technology Limited,Inclusive Education,Formally Employed
+EMP026,Joel Wuandai,Male,Three,2023,Diploma In Sustainable Agriculture and Rural Development,Back to college for high education,—,Education & Teaching,Returned to Study
+EMP027,Alfred Makere,Male,Three,2023,Bachelor of Laws (LLB),Capital Markets Authority,Parliamentary service commision,Law & Governance,Internship Placed
+EMP028,James Kiarie,Male,Four,2024,Degree in History and International Studies,Marigat Day Intergrated Sec. Shool,State department for Prison,Other,Internship Placed
+EMP029,Mary Maria Joseph,Female,Four,2024,Diploma in Human Resource Management,Caritas - Kitui,ongoing,HR & Management,Internship Ongoing
+EMP030,Nice Watetu Macharia,Female,Four,2024,Degree in Special Needs Education,Korara Special Sec. School,Teachers service commision,Inclusive Education,Internship Placed
+EMP031,Oywa Don Ochieng,Male,Four,2024,Bachelor of Education in Special Needs Education,Kenya Institute for the Blind,Teachers service commision,Inclusive Education,Internship Placed
+EMP032,Amos Kimwetich,Male,Four,2024,Bachelor of education in Special Needs Education,St. Francis Secondary School,Ended,Inclusive Education,Internship Completed
+EMP033,Olive Lumadede,Female,Four,2024,Diploma in Special Needs Education,Permanent (TSC),Teachers service commision,Inclusive Education,Internship Placed
+EMP034,Dorothy Mwende,Female,Four,2024,Diploma in Human Resource Management,Kenya National Commission for UNESCO,ended,HR & Management,Internship Completed
+EMP035,Jane Maina,Female,Four,2024,Diploma in Social Work,Riziki Source,ended,Social & Community Dev,Internship Completed
+EMP036,Damaris Mutai,Female,Four,2024,Diploma in Early Childhood Development Education,Illula Intergrated Pri Sch,ongoing,Education & Teaching,Internship Ongoing
+EMP037,Michael Odero,Male,Four,2024,Bachelor of education in Special Needs Education,Nico Hauser Special Secondary School,Teachers service commision,Inclusive Education,Internship Placed
+EMP038,Willis Wafula,Male,Four,2024,Diploma in Music from Kenyatta University,S.A Thika High School,Internship ongoing,Education & Teaching,Internship Ongoing
+EMP039,Caroline Karanja,Female,Five,2024,Diploma in Social work and Community Development,Not placed,—,Social & Community Dev,Not Placed
+EMP040,Boniface Kilonzo Wambua,Male,Five,2024,Diploma in Human Resource Management,National Council for Persons With Disability - Machakos County Office,Internship ongoing,Inclusive Education,Internship Ongoing
+EMP041,Mercy Ambina,Female,Five,2024,Diploma in Social work and Community Development,"Child protection office, Nyamira",Internship ongoing,Social & Community Dev,Internship Ongoing
+EMP042,Augustine wabwile,Unknown,Five,2024,Certificate in Network engineering from Cisco,S.A Likoni High School the Visually Impaired.,AssistiveMath,Education & Teaching,Internship Placed
+EMP043,Andrew kyosi,Male,Five,2024,Bachelor of Science in Actuarial Science,"National Council for Persons With Disability - Programs Department , Nrb",Public service commission,Inclusive Education,Formally Employed
+EMP044,Daniel Okwero Onyango,Male,Five,2024,Diploma in Human Resource Management from Kenyatta university.,Kilimanjaro Blind Trust Africa,KBTA,Inclusive Education,KBTA Employed
+EMP045,Bill Clinton Ochieng,Male,Five,2024,Diploma in Music and Dance from Kenyatta University,Not placed,—,Education & Teaching,Not Placed
+EMP046,Edwin Omulama,Male,Five,2024,Diploma in Human Resource Management,Enable,Internship ongoing,HR & Management,Internship Ongoing
+EMP047,Peter Buoga,Male,Five,2024,Diploma in social work and Community development,National Council for Persons With Disability - Siaya County Office,Internship ended,Inclusive Education,Internship Completed
+EMP048,Fidelis Kimurgor Rop,Male,Five,2024,Diploma in Mass communication and journalism,National Council for Persons With Disability - Uasin Gishu Office,Internship ended,Inclusive Education,Internship Completed
+EMP049,Lilian Kathambi,Female,Five,2024,B. Ed in Special Needs Education,Almasi International School- Syokimau,Internship ended,Inclusive Education,Internship Completed
+EMP050,Cheryl Achieng Oyugi,Female,Six,2024,Diploma in hospitality and management – Zetech University,Not placed,"Sarova Woodland Hoitel, Tanzania",Education & Teaching,Not Placed
+EMP051,Evans Sagini,Male,Six,2024,Diploma in Social and Community Development – Cooperative University,Not placed,Icolo data centre,Education & Teaching,Not Placed
+EMP052,William Musembi Muia,Male,Six,2024,Diploma in Secondary Education (Kisw/ Hist) – Kagumo TTC,Not placed,Teachers service commision,Education & Teaching,Not Placed
+EMP053,Scholastica Moraa Nyabure,Female,Six,2024,Bachelor of Arts in Sociology and Religion – Egerton University,Nicco Hauser special School,internship ended,Education & Teaching,Internship Completed
+EMP054,Moureen Nasiche Anzala,Female,Six,2024,Diploma in Social work and Community Development -,"NCPWD, Kakamega County",internship ongoing,Social & Community Dev,Internship Ongoing
+EMP055,Beatrice Mwikali,Female,Six,2024,Diploma in Early Childhood Teacher Education - MTTC,"Baraka School, Kangundo",internship ongoing,Education & Teaching,Internship Ongoing
+EMP056,Rebbeca Waithera Gachoki,Female,Six,2024,Diploma in Data Science – Kenyatta University,"NCPWD, Nairobi county",internship ongoing,Education & Teaching,Internship Ongoing
+EMP057,Sostine Makari,Male,Six,2024,"Degree in Public Administration and governance 
+Diploma in Community Development",Come together widows & Orphans Organization,internship ongoing,Social & Community Dev,Internship Ongoing
+EMP058,Lucy Natua Lesorogol,Female,Six,2024,Diploma in Human Resource Management – Cooperative University,Old Mutual,internship ongoing,Education & Teaching,Internship Ongoing
+EMP059,Francis Mwange Mutemi,Male,Six,2024,Diploma in Human Resource Management -MTIB,"APDK, Embu County",internship ongoing,HR & Management,Internship Ongoing
+EMP060,Isaac Muiruri Kinungi,Male,Six,2024,Bsc Animal Science – Egerton University,Korara Integrated Secondary school,internship ended,Education & Teaching,Internship Completed
+EMP061,Johnstone Ashira Patrick,Male,Six,2024,Diploma in Early Childhood Education - MTTC,"Hill side school, Utawala",internship ended,Education & Teaching,Internship Completed
+EMP062,Charles O.Emuria,Male,Seven,2025,Degree: Special Needs Education,Nicco Hauser,Internship ongoing,Inclusive Education,Internship Ongoing
+EMP063,Clinton Muriithi Munene,Male,Seven,2025,Bachelor of Arts in Communication and Media Studies,Ministry of Agriculature -comms department,Internship ongoing,"Arts, Media & Hospitality",Internship Ongoing
+EMP064,Achola Cynthia Wanjiku,Female,Seven,2025,Bachelor of Arts in Gender and development studies,NCPWD-siaya county,Internship ongoing,Social & Community Dev,Internship Ongoing
+EMP065,Ephantus Boro Haiyae,Male,Seven,2025,Bachelor of education Arts,Asumbi Teachers College,Internship ongoing,Education & Teaching,Internship Ongoing
+EMP066,Gilbert Kipkirui Langat,Male,Seven,2025,Diploma in early childhood education,Not placed,On going,Education & Teaching,Not Placed
+EMP067,Hannah Wanjiru Kimani,Female,Seven,2025,Diploma in Early Childhood Teacher Education-,Kitui comprehensive school,On going,Education & Teaching,Internship Placed
+EMP068,James Wairimu,Female,Seven,2025,Bachelors in Special Needs Education,Korara special School,On going,Inclusive Education,Internship Placed
+EMP069,Lucas Ngii Mwania,Male,Seven,2025,Diploma in Human Resource Management,Not placed,On going,HR & Management,Not Placed
+EMP070,Micah Munyuny Lokoropee,Male,Seven,2025,"Bachelor of Education in Special Needs Education,",St. Francis secondary school for the Blind,On going,Inclusive Education,Internship Placed
+EMP071,Peterson Muiruri Karanja,Male,Seven,2025,Diploma in Agriprenuership,S.A Likoni High for the visually impirmed,On going,Other,Internship Placed
+EMP072,Javan Odhiambo Aluoch,Female,Seven,2025,Diploma in early childhood education,Kitui comprehensive school,On going,Education & Teaching,Internship Placed
+EMP073,Purity Atieno Otieno,Female,Seven,2025,Degree in International Relations with IT,Caritas - Kitui,On going,Other,Internship Placed
+EMP074,Benson Rotich,Male,Eight,2025,Diploma in Human Resource management,Not placed,—,HR & Management,Not Placed
+EMP075,Charles Kariuki,Male,Eight,2025,Diploma in Hospitality Management and Accommodation,Not placed,—,"Arts, Media & Hospitality",Not Placed
+EMP076,Dan Erick Thuranira,Male,Eight,2025,Degree in Gender and Development Studies,Not placed,—,Social & Community Dev,Not Placed
+EMP077,Mary Wairimu,Female,Eight,2025,Diploma in Early Childhood Education,Not placed,—,Education & Teaching,Not Placed
+EMP078,Derick Kipchirchir,Male,Eight,2025,Degree in Gender and Development Studies,Not placed,—,Social & Community Dev,Not Placed
+EMP079,Jenifer Mutio,Female,Eight,2025,Diploma in Early childhood Education,Not placed,—,Education & Teaching,Not Placed
+EMP080,Margaret Njeri,Female,Eight,2025,Diploma in Catering,Not placed,—,"Arts, Media & Hospitality",Not Placed
+EMP081,Brian Maina,Male,Eight,2025,Degree in Education – History and French,Not placed,—,Education & Teaching,Not Placed
+EMP082,Emmanuel Kirui,Male,Eight,2025,Diploma in Special Needs Education,Not placed,—,Inclusive Education,Not Placed
+EMP083,Mercy Cherono,Female,Eight,2025,Diploma in Early Childhood Education,Not placed,—,Education & Teaching,Not Placed
+EMP084,Evans Ptoo,Male,Eight,2025,Diploma in Social work and Community Development,Not placed,—,Social & Community Dev,Not Placed
+EMP085,Robert Naftali,Male,Eight,2025,Degree in Special Need Education,Not placed,—,Inclusive Education,Not Placed
+EMP086,Sharon Kariuki,Female,Eight,2025,Diploma in Social Work and Community Development,KBTA,—,Social & Community Dev,KBTA Employed
+EMP087,Emmanuel Kibarange,Male,Eight,2025,Diploma in Social work and Community Development,Not placed,—,Social & Community Dev,Not Placed
+EMP088,James Ikaal Papa,Male,Nine,2025,Degree in education- Special Needs,Not placed,—,Inclusive Education,Not Placed
+EMP089,Agnetta Awino Owino,Unknown,Nine,2025,Diploma in Counselling Psychology,Not placed,—,Social & Community Dev,Not Placed
+EMP090,Chikombe Nelly Ocholi,Unknown,Nine,2025,DEGREE IN PSYCHOLOGY WITH IT,Not placed,—,Other,Not Placed
+EMP091,Maryanne Mbula Wambua,Female,Nine,2025,DEGREE IN EDUCATION - SPECIAL NEEDS (MUSIC/ KISW),Not placed,—,Inclusive Education,Not Placed
+EMP092,Gillian Awuor Otieno,Female,Nine,2025,DIPLOMA IN SOCIAL WORK,Not placed,—,Social & Community Dev,Not Placed
+EMP093,Susan akuya,Female,Nine,2025,DEGREE IN GENDER AND DEVELOPMENT STUDIES,Not placed,—,Social & Community Dev,Not Placed
+EMP094,Brian Milimo Khatambi,Male,Nine,2025,DIPLOMA IN EARLY CHILDHOOD DEVELOPMENT EDUCATION,Not placed,—,Education & Teaching,Not Placed
+EMP095,Joseph Lochaun,Unknown,Nine,2025,DIPLOMA IN EARLY CHILDHOOD DEVELOPMENT EDUCATION,Not placed,—,Education & Teaching,Not Placed
+EMP096,Kennedy Mutahi Luvembe,Male,Nine,2025,"DEGREE IN ARTS, MUSIC WITH IT",Not placed,—,"Arts, Media & Hospitality",Not Placed
+EMP097,Micah Awon,Male,Nine,2025,DIPLOMA IN HUMAN RESOURCE MANAGEMENT,Not placed,—,HR & Management,Not Placed
