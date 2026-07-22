@@ -578,7 +578,7 @@ function renderEmployability(){
   const sb=s=>/not placed/i.test(s)?'b-red':(/employ/i.test(s)?'b-green':(/study/i.test(s)?'b-teal':'b-gold'));
   const t=makeTable('emTbl',
     [{t:'Graduate'},{t:'Gender'},{t:'Cohort'},{t:'Year'},{t:'Qualification'},{t:'Sector'},{t:'Status'},{t:'Placement'}],
-    E.map(g=>[{v:g.graduate_name,h:`<b>${g.graduate_name}</b>`},g.gender,{v:g.cohort,h:`<span class="badge b-grey">${g.cohort}</span>`},g.year,g.qualification,g.sector||'—',
+    E.map(g=>[{v:g.graduate_name,h:`<b>${g.graduate_name}</b>`},g.gender,{v:g.cohort,h:`<span class="badge b-grey">${g.cohort}</span>`},g.year_of_completion,g.qualification,g.sector||'—',
       {v:g.status,h:`<span class="badge ${sb(g.status)}">${g.status}</span>`},(g.employment_organization&&g.employment_organization!=='—')?g.employment_organization:(g.internship_placement||'—')]));
   document.getElementById('emSearch').oninput=e=>t.search(e.target.value);
 }
